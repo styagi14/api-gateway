@@ -1,2 +1,1 @@
-# api-gateway
-This is local changes or Master Repository..
+This is README file for master repository...
